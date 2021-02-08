@@ -1,5 +1,4 @@
-# Instagram-scraping-to-search-hashtags
-This a script to extract info related to the use of hashtags on Instagram
+# Instagram-scraping-to-extract-information-from-the-last-posts
 
 The goal for this work is to extract information regarding the posts to check if there is a variant regardging the best day/time to post the pictures
 
