@@ -11,7 +11,9 @@ The Project is divided into :
 #### from instascrape import *
 #### from datetime import datetime
 
-### The step 1 is to extract the last 100 posts link and store on a list
+### The step 1 get the most recent data where:
+#### Insert the number of posts you want to retrieve and the Instagram username
+#### Retrieving the last posts from the Instagram using the Selenium package and relating with HTML
 
 ### Step 2 is to create a Data frame to store information that we will extract from the posts links, we used a library that is called instascrape, this library helps to extract the following information from each post:
 #### timestamp
