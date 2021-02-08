@@ -16,9 +16,10 @@ from datetime import datetime
 dayOfWeek = ("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday")
 
 #STEP 1 - Get the most recent posts
-# number = input("Provide the number of post you want to extract it: ")
-number = 100
-username = 'tayzerdo'
+number = int(input("Provide the number of post you want to extract it: "))
+username = input("Provide the Instagram username: ", )
+# number = 100
+# username = 'tayzerdo'
 
 #Go to Instagram username page, to retrieve the pictures id to be able to store each post link
 lastlink = url = "https://www.instagram.com/" + username + "/"
