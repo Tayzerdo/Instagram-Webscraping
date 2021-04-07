@@ -1,24 +1,11 @@
 # Instagram-scraping-to-extract-information-from-the-last-posts
 
-The goal for this work is to extract information regarding the posts to check if there is a variant regardging the best day/time to post the pictures
+## The goal for this work is to extract information from my instagram personal account Tayzerdo and check if there is a parttern related to the time/day I post and related to the hashtags that I use.
 
-The Project is divided into :
+### First of all, I used python with libraries to help me out to extract, manipulate and save the data into an excel file to export to Tableau for data visualization.
 
-### The first step 0 is to import the libraries:
-#### import pandas as pd
-#### import time
-#### from selenium.webdriver import Chrome
-#### from instascrape import *
-#### from datetime import datetime
 
-### The step 1 get the most recent data where:
-#### Insert the number of posts you want to retrieve and the Instagram username
-#### Retrieving the last posts from the Instagram using the Selenium package and relating with HTML
 
-### Step 2 is to create a Data frame to store information that we will extract from the posts links, we used a library that is called instascrape, this library helps to extract the following information from each post:
-#### timestamp
-#### comments
-#### likes
-#### is_video
-#### post link
-#### caption
+
+#### The link for the dashboard visualization
+https://public.tableau.com/profile/tayzer.damasceno.de.oliveira#!/vizhome/IGtayzerdo/Dashboard1
