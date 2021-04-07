@@ -2,7 +2,7 @@
 
 ### The goal for this work is to extract information from my instagram personal account Tayzerdo and check if there is a parttern related to the time/day I post and related to the hashtags that I use.
 
-As being a photograph lover, I have my personal Instagram account often acctive posting pictures, and I have a sort of different types of pictures that I post, and the library [Instascrape](https://github.com/chris-greening/instascrape) helps a lot to extract so many info from the Instagram posts.
+As being a photograph lover, I have my personal Instagram account often active posting pictures, and I have a sort of different types of pictures that I post, and the library [Instascrape](https://github.com/chris-greening/instascrape) helps a lot to extract so many info from the Instagram posts.
 
 For this work the method was:
 
