@@ -17,6 +17,7 @@ def scrapePosts(username,numberposts):
     
     # Scraping the profile
     SESSIONID = 'xxx'
+    #On this link you can the step by step to take the sessionID number https://stevesie.com/docs/pages/find-instagram-session-id
     headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.57",
                "cookie": f"sessionid={SESSIONID};"}
     Insta = Profile(username)
