@@ -126,8 +126,8 @@ def saveAllInfo(username,IDlist,postinfo,df1,df2):
 def main():
     logging.basicConfig(filename='myapp.log', level=logging.INFO)
     logging.info(f'Started at {datetime.now().strftime("%y/%m/%d %H:%M:%S")}')
-    username = "clicktays"
-    numberposts=2
+    username = "xxx"
+    numberposts=200
     
     logging.info("STEP 1")
     posts = scrapePosts(username,numberposts)
